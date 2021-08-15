@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Coingecko-api/static/css/main.14d24ac4.chunk.css",
+    "main.js": "/Coingecko-api/static/js/main.ccd32cfe.chunk.js",
+    "main.js.map": "/Coingecko-api/static/js/main.ccd32cfe.chunk.js.map",
+    "runtime-main.js": "/Coingecko-api/static/js/runtime-main.b544311d.js",
+    "runtime-main.js.map": "/Coingecko-api/static/js/runtime-main.b544311d.js.map",
+    "static/css/2.c490997a.chunk.css": "/Coingecko-api/static/css/2.c490997a.chunk.css",
+    "static/js/2.7ab33a17.chunk.js": "/Coingecko-api/static/js/2.7ab33a17.chunk.js",
+    "static/js/2.7ab33a17.chunk.js.map": "/Coingecko-api/static/js/2.7ab33a17.chunk.js.map",
+    "static/js/3.a21ce4c1.chunk.js": "/Coingecko-api/static/js/3.a21ce4c1.chunk.js",
+    "static/js/3.a21ce4c1.chunk.js.map": "/Coingecko-api/static/js/3.a21ce4c1.chunk.js.map",
+    "index.html": "/Coingecko-api/index.html",
+    "static/css/2.c490997a.chunk.css.map": "/Coingecko-api/static/css/2.c490997a.chunk.css.map",
+    "static/css/main.14d24ac4.chunk.css.map": "/Coingecko-api/static/css/main.14d24ac4.chunk.css.map",
+    "static/js/2.7ab33a17.chunk.js.LICENSE.txt": "/Coingecko-api/static/js/2.7ab33a17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b544311d.js",
+    "static/css/2.c490997a.chunk.css",
+    "static/js/2.7ab33a17.chunk.js",
+    "static/css/main.14d24ac4.chunk.css",
+    "static/js/main.ccd32cfe.chunk.js"
+  ]
+}
